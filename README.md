@@ -1,5 +1,6 @@
 # Bike Analysis
-An analysis on customer spending habit of a bike company. The approach for analysis revolves around descriptive analytics and visualisation.
+An analysis of customer spending habits of a bike company. The approach for analysis revolves around descriptive analytics and visualisation. The expansion of a machine learning section is under construction.
+
 This is my personal portfolio, not intended for any commercial purposes.
 
 # References
